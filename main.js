@@ -58,3 +58,4 @@ function del(){
 function text(){
   console.log(document.getElementById("msg").value);
 }
+//hello
